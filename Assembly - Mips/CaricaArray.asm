@@ -22,4 +22,4 @@ fine:	li $v0,10	#codice operativo per terminare il programma
 #		int i;
 #		for(i=0;i<10;i++)
 #		vett[i]=2+i;
-#	}
+#	} cacca
